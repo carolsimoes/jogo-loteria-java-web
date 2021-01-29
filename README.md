@@ -1,10 +1,12 @@
 # jogo-loteria-java-web
 
-Aplicação em Java, 
+Aplicação em Java
+
+# Download ae instalação template
 template Bootstrap https://startbootstrap.com/theme/sb-admin-2
-personalizado com a junção do Gulp
+personalizado utilizando Gulp
 
-Backend Vraptor, 
+# Backend 
+Vraptor, 
 Servidor Apache Tomcat 9
-
 Banco de dados Postgres 9.6
