@@ -2,7 +2,7 @@
 
 Aplicação em Java
 
-# Download ae instalação template
+# Download e instalação template
 template Bootstrap https://startbootstrap.com/theme/sb-admin-2
 personalizado utilizando Gulp
 
