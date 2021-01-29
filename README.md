@@ -10,3 +10,4 @@ personalizado utilizando Gulp
 Vraptor: framework MVC web para desenvolvimento ágil com Java, 
 Servidor Apache Tomcat 9
 Banco de dados Postgres 9.6
+
